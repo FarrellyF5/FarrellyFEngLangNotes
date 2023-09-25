@@ -14,5 +14,6 @@ nav {
 }
 
 a {
-  color: #e63946;
+  color: #f1faee;
+  text-decoration: underline dotted;
 }
