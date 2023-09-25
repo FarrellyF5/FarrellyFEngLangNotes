@@ -1,0 +1,13 @@
+body, html {
+  background-color: #1d3557;
+  color: #f1faee;
+}
+
+nav {
+  float: left;
+  background-color: #457b9d;
+}
+
+a {
+  color: #e63946;
+}
