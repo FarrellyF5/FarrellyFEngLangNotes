@@ -19,6 +19,11 @@ nav {
   margin-top: 0;
 }
 
+h2 {
+  margin-top: 0;
+  padding-top: 8px;
+}
+
 a {
   color: #f1faee;
   text-decoration: underline dotted;
