@@ -14,6 +14,11 @@ body, html {
   color: #f1faee;
   padding: 0;
   margin: 0;
+  font-family: MS UI Gothic, sans-serif;
+}
+
+p, h1, h2, h3 {
+  top-margin: 8px;
 }
 
 nav {
